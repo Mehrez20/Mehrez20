@@ -1,10 +1,21 @@
 # Hi 👋 I'm Mehrez
 
-💻 Data Engineering Student  
-📊 Interested in Data Engineering  
-📍 Tunisia  
+💻 **Data Engineering Student**  
+📊 Passionate about **Data Engineering, Data Pipelines and Analytics**  
+🚀 Currently learning **Python, SQL, Airflow, and Data Visualization**  
+📍 Based in **Tunisia**
 
 ---
+
+🔧 **Technologies & Tools**  
+Python • SQL • Pandas • Apache Airflow • Docker • Git • Streamlit
+
+---
+
+📈 **Goals**
+- Build real-world **data pipelines**
+- Create **interactive data dashboards**
+- Contribute to **open-source data projects**
 
 
 ## 🌐 Socials:
